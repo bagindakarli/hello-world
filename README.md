@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi, fellas!
+Baginda here, I came to take the chance.
